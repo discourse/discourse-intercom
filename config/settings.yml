@@ -1,0 +1,10 @@
+plugins:
+  intercom_enabled:
+    default: false
+    client: true
+  intercom_app_id:
+    default: ''
+    client: true
+  intercom_secret_key:
+    default: ''
+    secret: true

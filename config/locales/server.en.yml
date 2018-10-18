@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    intercom_enabled: 'Enable the discourse-intercom plugin'
+    intercom_app_id: 'Your Intercom App ID'
+    intercom_secret_key: 'Your Intercom secret key'
