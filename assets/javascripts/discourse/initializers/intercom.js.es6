@@ -2,7 +2,7 @@ import { withPluginApi } from "discourse/lib/plugin-api";
 
 function initialize(api) {
   const siteSettings = api.container.lookup("site-settings:main");
-  const currentUser = Discourse.User.current();
+  const currentUser = api.getCurrentUser();
   if (!siteSettings.intercom_enabled || !currentUser) {
     return;
   }
