@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 he:
+  site_settings:
+    intercom_enabled: 'הפעלת התוסף discourse-intercom'
+    intercom_app_id: 'מזהה היישום שלך ב־Intercom'
+    intercom_secret_key: 'המפתח הסודי שלך ב־Intercom'
