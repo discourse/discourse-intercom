@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 ru:
+  site_settings:
+    intercom_enabled: 'Включить плагин discourse-интерком'
+    intercom_app_id: 'ID вашего приложения интеркома'
+    intercom_secret_key: 'Ваш ключ для интеркома'
