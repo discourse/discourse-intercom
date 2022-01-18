@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 ar:
+  site_settings:
+    intercom_enabled: 'تفعيل المكوِّن الإضافي discourse-intercom'
+    intercom_app_id: 'معرِّف تطبيق Intercom'
+    intercom_secret_key: 'مفتاح Intercom السري'

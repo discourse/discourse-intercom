@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 zh_CN:
+  site_settings:
+    intercom_enabled: '启用 discourse-intercom 插件'
+    intercom_app_id: '您的 Intercom 应用 ID'
+    intercom_secret_key: '您的 Intercom 密钥'
