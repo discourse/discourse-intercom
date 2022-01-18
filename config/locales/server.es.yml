@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 es:
+  site_settings:
+    intercom_enabled: 'Activa el plugin discourse-intercom'
+    intercom_app_id: 'Tu ID de aplicación de Intercom'
+    intercom_secret_key: 'Tu clave secreta de Intercom'

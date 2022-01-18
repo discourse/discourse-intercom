@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 fr:
+  site_settings:
+    intercom_enabled: 'Activer l''extension discours-intercom'
+    intercom_app_id: 'Votre identifiant d''application Intercom'
+    intercom_secret_key: 'Votre clé secrète Intercom'
