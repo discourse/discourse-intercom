@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 ja:
+  site_settings:
+    intercom_enabled: 'discourse-intercom プラグインを有効にする'
+    intercom_app_id: 'Intercom アプリ ID'
+    intercom_secret_key: 'Intercom シークレットキー'

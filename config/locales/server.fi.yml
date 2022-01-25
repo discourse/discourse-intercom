@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 fi:
+  site_settings:
+    intercom_enabled: 'Ota discourse-intercom-lisäosa käyttöön'
+    intercom_app_id: 'Intercom-sovellustunnuksesi'
+    intercom_secret_key: 'Intercomin salainen avaimesi'
