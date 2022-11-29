@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 nl:
+  site_settings:
+    intercom_enabled: 'Discourse-intercom-plug-in inschakelen'
+    intercom_app_id: 'Je Intercom-app-ID'
+    intercom_secret_key: 'Uw geheime Intercom-sleutel'
