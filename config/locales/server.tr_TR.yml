@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 tr_TR:
+  site_settings:
+    intercom_enabled: 'Discourse-intercom eklentisini etkinleştirin'
+    intercom_app_id: 'Intercom Uygulama Kimliğiniz'
+    intercom_secret_key: 'Interkom gizli anahtarınız'
