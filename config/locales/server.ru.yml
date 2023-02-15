@@ -6,6 +6,6 @@
 
 ru:
   site_settings:
-    intercom_enabled: 'Включить плагин discourse-интерком'
-    intercom_app_id: 'ID вашего приложения интеркома'
-    intercom_secret_key: 'Ваш ключ для интеркома'
+    intercom_enabled: 'Включить плагин интеркома для Discourse'
+    intercom_app_id: 'Идентификатор приложения интеркома'
+    intercom_secret_key: 'Ключ для интеркома'
