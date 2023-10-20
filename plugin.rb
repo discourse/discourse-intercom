@@ -1,5 +1,6 @@
 # name: discourse-intercom
-# about: Integration features between Intercom and Discourse
+# about: Adds Intercom Messenger Integration to Discourse. 
+# meta_topic_id: 106622
 # version: 0.1
 # author: Vinoth Kannan
 
