@@ -1,9 +1,9 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe CurrentUserSerializer do
   let(:user) { Fabricate(:user) }
   let :serializer do
-    CurrentUserSerializer.new(user, scope: Guardian.new, root: false)
+    CurrentUserSerializer.new(user, scope: Guardian.new(user), root: false)
   end
 
   before do
@@ -23,5 +23,4 @@ describe CurrentUserSerializer do
     expect(payload[:email]).not_to be_present
     expect(payload[:intercom_hash]).not_to be_present
   end
-
 end
