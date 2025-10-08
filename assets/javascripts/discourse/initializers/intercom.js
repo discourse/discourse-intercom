@@ -24,6 +24,6 @@ export default {
   name: "intercom",
 
   initialize() {
-    withPluginApi("0.8.7", initialize);
+    withPluginApi(initialize);
   },
 };
